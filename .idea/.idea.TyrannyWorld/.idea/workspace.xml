@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8895050e-e08d-443b-8d07-8434d4250864" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9AD9EAD-AEF5-4DA8-8314-B7EEDA27F12A/b3/40002e42/PacketHandlerLoader`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/75/8c113484/UdpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCB2009-340E-4585-9BC9-A272BA7D65C7/32/db111ce1/AsyncUdpClient`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9AD9EAD-AEF5-4DA8-8314-B7EEDA27F12A/6f/939cd9b2/AsyncUdpClient`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8B4772C-72F8-45D3-8E6F-6DA207083DE6/25/3f850af1/PacketHandler.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Registry.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/System/Logigng.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/System/Singleton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/System/Registry.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network/WorldManagementClient.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network/WorldManagementOpcode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/WorldManagementHandlers.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network/PacketHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SystemSetup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/WorldManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network/WorldOpcode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Events/NetworkEvents.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/NetworkEventManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/System/Logging.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Network/WorldNetworkClient.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/WorldPacketHandlers.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Managers/WorldEntityManager.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1nj93GruE6dhPp9LF2ZUoAqLY3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/TyrannyWorld.app/Contents/MacOS/TyrannyWorld" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/TyrannyWorld.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8895050e-e08d-443b-8d07-8434d4250864" name="Default Changelist" comment="" />
+      <created>1611892431695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611892431695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
